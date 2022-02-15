@@ -3,9 +3,9 @@
 ![Views](https://komarev.com/ghpvc/?username=Gabryx64)
 
 - 👋 Hi, I’m Gabry!
-- 👀 I’m interested in Native development and parsing algorithms!
+- 👀 I’m interested in system programming, game development, and parsing algorithms!
 - 📫 How to reach me: gabryx86_64@protonmail.com
-- 🏗️ Currently working on Crossbow, a game engine!
+- 🏗️ Currently working on FrontScript, a programming language
 
 ![Gabryx64's github stats](https://github-readme-stats.vercel.app/api?username=Gabryx64&theme=dark&show_icons=true)
 
